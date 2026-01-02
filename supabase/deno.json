@@ -1,0 +1,16 @@
+{
+    "imports": {},
+    "fmt": {
+        "useTabs": false,
+        "semiColons": false,
+        "indentWidth": 4,
+        "singleQuote": false,
+        "proseWrap": "always"
+    },
+    "vendor": true,
+    "nodeModulesDir": "auto",
+    "workspace": ["./functions/*"],
+    "compilerOptions": {
+        "skipLibCheck": true
+    }
+}
